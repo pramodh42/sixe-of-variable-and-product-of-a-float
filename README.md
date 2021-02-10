@@ -1,0 +1,2 @@
+# sixe-of-variable-and-product-of-a-float
+#include &lt;iostream> using namespace std;   int main(){      cout &lt;&lt; "The size of char is: " &lt;&lt; sizeof(char) &lt;&lt;"\n" ;    cout &lt;&lt; "The size of int is: " &lt;&lt; sizeof(int) &lt;&lt;"\n" ;    cout &lt;&lt; "The size of float is: " &lt;&lt; sizeof(float) &lt;&lt;"\n" ;    cout &lt;&lt; "The size of double is: " &lt;&lt; sizeof(double) &lt;&lt;"\n" ;     return 0;     }
